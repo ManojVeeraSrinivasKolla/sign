@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-dm-sans: "DM Sans";
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-mini: 15px;
+  --font-size-21xl: 40px;
+  --font-size-base: 16px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-firebrick: rgba(199, 27, 27, 0.88);
+  --color-cornflowerblue: #a7a3ff;
+  --color-lavender: #f0efff;
+  --color-black: #000;
+  --color-red: #fe0808;
+
+  /* Border radiuses */
+  --br-5xs: 8px;
+  --br-4xs: 9px;
+}
